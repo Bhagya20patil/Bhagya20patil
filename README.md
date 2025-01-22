@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Bhagya20patil/Bhagya20patil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bhagya_shri_patil20/Bhagya20patil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
